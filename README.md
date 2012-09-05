@@ -24,6 +24,6 @@ $console->error(abc,false);
 sth ["one", "two", 3] 0.55 12 true false
 144 false
 Aa99._-jkg?yif`'@'
-▼ abc false
+ &#009888; ▼ abc false
    (anonymous function)
 ```
